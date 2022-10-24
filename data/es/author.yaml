@@ -1,28 +1,31 @@
 # Nombre completo
-name: "Naomi Padilla Mora"
+name: "Adrián Landaverde Nava"
  
 # Apodo, o sólo cómo te gusta que te digan
-nickname: "Naomi"
+nickname: "Adrián"
  
 # Saludo inicial antes de tu apodo
 greeting: "Hi, I am"
  
 # Imagen de ti
-image: "images/author/profile.png"
+image: "images/author/adrian.png"
  
 # Información de contacto
 contactInfo:
-  email: "naomipmora@gmail.com"
-  phone: "5549256311"
+  email: "adrianlandaverden@gmail.com"
+  phone: "5530510943"
   linkedin:
     icon: linkedin
-    url: "https://www.linkedin.com/in/naomi-padilla-mora-/"
-    text: "Naomi Padilla Mora"
+    url: "link"
+    text: "Nombre de Usuario"
  
  
 # Descripción de ti
 summary:
   - I am a Data Scientist
-  - I am a Reader
-  - I am a Team Worker
+  - I am a ...
+  - I am a …
+ 
+  - I am a ...
+  - I am a ...
   - I am a ...

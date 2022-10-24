@@ -41,5 +41,13 @@ degrees:
     - name: Maths
       achieved: 9
       outOf: 10
-
- 
+    - name: Computer Science
+achieved: 9
+      outOf: 10
+    - name: Biology Standard Level
+achieved: 9
+      outOf: 10
+  extracurricularActivities:
+  - "Extracurricular 1"
+  - "Extracurricular 2"
+  - "Extracurricular 3"

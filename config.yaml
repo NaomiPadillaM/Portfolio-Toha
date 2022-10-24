@@ -29,11 +29,6 @@ enableEmoji: true
  
 # Parámetros del sitio
 params:
-
-  darkMode:
-   enable: true
-   provider: darkreader
-   default: system
   
   # Imagen de fondo
   background: "images/site/Fondo.jpg"

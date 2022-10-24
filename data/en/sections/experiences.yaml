@@ -9,11 +9,11 @@ section:
 # Tus experiencias
 experiences:
 - company:
-    name: Beautiful Patterns
-    url: "https://beautifulpatterns.org/"
+    name: Nombre Compañia.
+    url: "link"
     overview: "Descripción."
   positions:
-  - designation: Social Service
+  - designation: Puesto
     start: May 2022 
     responsibilities:
     - Responsabilidad 1
@@ -34,6 +34,6 @@ experiences:
     - Responsabilidad 2
     - Responsabilidad 3
     - Responsabilidad 4
- 
+
  
 

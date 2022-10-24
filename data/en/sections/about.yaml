@@ -8,15 +8,15 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Engineering in Data Science and Maths
+designation: Fifth semester in Engineering in Data Science and Maths
  
 # Información de tu compañía / Escuela
 company:
   name: Tec de Monterrey.
-  url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
+  url: "Link"
  
 # Tu CV
-resume: "files/Naomi_CVen.pdf"
+resume: "files/CV_en.pdf"
  
 # Resumen de ti
 summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. "
@@ -25,34 +25,7 @@ summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripci�
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "https://github.com/NaomiPadillaM"
+  url: "link"
  
-- name: Linkedin
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/naomi-padilla-mora-/"
- 
-- name: Email
-  icon: "fas fa-envelope"
-  url: "naomipmora@gmail.com"
- 
-# Insignias de hard skills y soft skills
-badges:
- 
-# Ejemplo soft skill
-- type: soft-skill-indicator
-  name: Leadership #Nombre de soft skill
-  percentage: 100 #Porcentaje que tienes / tamaño del círculo
-  color: blue #Color
 
-- type: soft-skill-indicator
-  name: Team Work #Nombre de soft skill
-  percentage: 100 #Porcentaje que tienes / tamaño del círculo
-  color: pink #Color
- 
-# Ejemplo insignia (hard-skill)
-#- type: certification
-#  name: Applied Data Science with Python #Nombre de insignia
-#  url: "https://www.credly.com/badges/" #Link de la insignia
-#  badge: "https://images.credly.com/size/680x680/images/" #Link imagen
- 
 

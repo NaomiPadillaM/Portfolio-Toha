@@ -13,11 +13,11 @@ achievements:
  
   summary: Descripción corta. #Descripción corta
 - title: Logro 2 #Nombre del Logro
-  image: /images/achievements/logro2.jpg #Imagen
+  image: /images/sections/achievements/logro2.jpg #Imagen
   summary: Descripción corta. #Descripción corta
  
 - title: Logro 3#Nombre del Logro
-  image: /images/achievements/logro3.jpg #Imagen
+  image: /images/sections/achievements/logro3.jpg #Imagen
   summary: Descripción corta. #Descripción corta
  
 

@@ -24,7 +24,7 @@ accomplishments:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
   courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "files/kaggle_courses.pdf" #Ruta del certificado
+  certificateURL: "files/cv.pdf" #Ruta del certificado
 
 
 
